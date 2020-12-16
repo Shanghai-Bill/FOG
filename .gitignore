@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+.env
+.pk
+.pem
+.pub
+node_modules/
+tests/

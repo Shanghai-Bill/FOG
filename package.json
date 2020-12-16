@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.0",
+    "flattener": "^0.4.0",
+    "fs": "^0.0.1-security",
+    "truffle": "^5.1.55",
+    "truffle-contract-size": "^2.0.1",
+    "truffle-flattener": "^1.5.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+     
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.2.0",
+    "dotenv": "^8.2.0",
+    "truffle-plugin-verify": "^0.5.2"
+  },
+  "name": "okreallyfogfinal",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
